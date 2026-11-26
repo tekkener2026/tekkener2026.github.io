@@ -39120,6 +39120,9 @@
 	<programme channel="newtv超级体育" start="20261126190000 +0800" stop="20261126200000 +0800">
 		<title lang="zh">足球之夜</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20261126200000 +0800" stop="20261126210000 +0800">
+		<title lang="zh">实况录像-2026/2027赛季速度滑冰世界杯 日本带广站 1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -39239,6 +39242,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20261126184400 +0800" stop="20261126192800 +0800">
 		<title lang="zh">43_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20261126192800 +0800" stop="20261126201600 +0800">
+		<title lang="zh">17_长安的荔枝</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -39875,6 +39881,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20261126185100 +0800" stop="20261126193700 +0800">
 		<title lang="zh">27_红蔷薇（DVD版）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20261126193700 +0800" stop="20261126200700 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
