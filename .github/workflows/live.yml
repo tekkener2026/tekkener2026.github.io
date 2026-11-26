@@ -3,7 +3,7 @@ name: build live list
 on:
   workflow_dispatch:
   schedule:
-    - cron: "25 */2 * * *"
+    - cron: "25 0,10,20 * * *"
 
 permissions:
   contents: write
